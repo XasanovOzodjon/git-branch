@@ -3,3 +3,6 @@ def login():
 
 def register():
     pass
+
+def logout():
+    pass
